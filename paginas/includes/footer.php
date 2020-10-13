@@ -2,7 +2,7 @@
 
 <footer class="container-fluid table-dark">
 
-<h5 class="text-center">Social      Media - rede social</h5>
+<h5 class="text-center">Social      Media - rede social - Social midia</h5>
 
 
 <table style="height: 100px;">
